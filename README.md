@@ -70,7 +70,6 @@ Coming soon! I'm working towards building practical projects in Python, AI and M
 📫l Connect With Me
 
 - GitHub:https://github.com/prajwal-099/prajwal-099
-- LinkedIn: [Your LinkedIn Profile]
 
 ---
 
